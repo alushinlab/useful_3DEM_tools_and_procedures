@@ -3,7 +3,7 @@ that are useful for image processing, interfacing with various 3DEM softwares, a
 
 You may notice that the top line of each Python script points to that environment. If you would like to run any Python-based
 scripts from the Alushin lab, it is generally recommended to install that environment in an anaconda installation to ensure 
-everything runs smoothly. To do so, first download the anaconda environment [here]().
+everything runs smoothly. To do so, first download the anaconda environment [here](./matt_EMAN2.yml).
 
 To setup the environment on your local computer, create a new conda environment by navigating to the downloaded .yml and 
 entering the following command:
