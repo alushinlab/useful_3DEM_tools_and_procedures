@@ -1,7 +1,7 @@
 # Create soft circular masks
 This directory contains the code necessary to generate custom soft masks in 2D.
 To run this software, it is recommended that the anaconda environment matt_EMAN2 is installed as recommended
-[here](../conda_env/conda_env_README.md).If one opts to not have this environment, then the current python installation must have
+[here](../conda_env/conda_env_README.md). If one opts to not have this environment, then the current python installation must have
 the following libraries installed: matplotlib, numpy, skimage, and mrcfile.
 
 Additionally, this software requires that one have a working installation of SPIDER (https://spider.wadsworth.org/spider_doc/spider/docs/spider-inst-linux.html) and EMAN1 (https://blake.bcm.edu/emanwiki/EMAN1/Install). 
